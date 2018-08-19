@@ -1,0 +1,11 @@
+{
+    "base_url" : "https://jira.ad.youdomain.com",
+    "max_search_results" : "1000",
+    "report_watchers" : "True",
+    "add_missing_watchers" : "True",
+    "project" : "LO",
+    "members_email_lookup" : {
+        "sundaram.pgdx@gmail.com": "sundaram",
+    },
+    "password_file" : "/home/jsundaram/.jira/credentials.json"
+}
